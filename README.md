@@ -35,7 +35,7 @@ This dataset contains data collected in the mintEMU research project on theses f
 ## 1.3 Author Information
 
 A. Principal Investigator  
-- Name: Claudiu Forgaci (mintEMU project & dataset)
+- Name: Claudiu Forgaci (mintEMU project, package development & dataset)
 - Institution: Delft University of Technology, Faculty of Architecture and the Built Environment
 - Address: Julianalaan 134, 2628AL Delft, South Holland, The Netherlands
 - Email: C.Forgaci@tudelft.nl

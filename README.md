@@ -75,7 +75,7 @@ mintEMU is a text analysis project meant to reveal topics, and evolutions thereo
 The following research questions used in the mintEMU project guided the preparation of this dataset:
 
 1.  What were the main topics addressed in the EMU program?
-    -   Data requirement: The text of all theses is cleaned and stored in a text column that can be read in by a text analysis workflow.
+    -   Data requirement: The text of all theses is cleaned and stored in a text column that can be read by a text analysis workflow.
 2.  How did those topics evolve throughout the program between 2007-2021?
     -   Data requirement: Information about the time of graduation (year and semester) is provided.
 
@@ -85,6 +85,8 @@ The mintEMU project data can be used:
 -   for unsupervised machine learning applications, such as the LDA topic model used in the mintEMU project;
 -   as training data in supervised machine learning models, such as classification models to predict the topic in a larger corpus of urbanism theses;
 -   in combination with computer vision applications in which text analysis provides information for labelling images found in the theses.
+
+Analyses in the mintEMU project were carried out on words and ngrams which discard the relationship between such tokens. However, cases, punctuation and line breaks marking the end of paragraphs were preserved in this dataset to allow for sentence- and paragraph-level analysis as well.
 
 ## 2.2 Methods for processing the data
 
@@ -213,7 +215,7 @@ Are there multiple versions of the dataset? No
 
 "abstract"  
 - Full name: Thesis abstract  
-- Description: Thesis abstract submitted in the TU Delft education repository  
+- Description: Thesis abstract submitted to the TU Delft education repository  
 - Type of variable: String  
 - Unit of measurement: N/A  
 - Number of missing values: 26

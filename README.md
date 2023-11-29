@@ -314,7 +314,7 @@ Yes. The data was derived from metadata from the TU Delft education repository a
 
 ## 5.3 Recommended citation for this dataset:
 
-Forgaci, C., Wilczynska, A. (2023). Mining Theses: The EMU Program (mintEMU) project data [dataset]. Retrieved from <http://doi.org/10.4121/3295be57-969c-4f72-9c09-8e92aaff78a5>
+Forgaci, C., Wilczynska, A. (2023). Mining Theses: The EMU Program (mintEMU) project data [dataset]. Retrieved from <http://doi.org/10.4121/7175050b-aebf-41f7-835b-4f23233c3ded>
 
 ---
 
